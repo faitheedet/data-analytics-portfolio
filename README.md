@@ -2,7 +2,7 @@ Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio.
 
-I'm Faith E. Edet, a Biochemistry graduate and aspiring data analyst interested in using data to uncover insights, identify patterns and support informed decision-making.
+I'm Faith E. Edet, a Biochemistry graduate and an data analyst interested in using data to uncover insights, identify patterns and support informed decision-making.
 
 This repository documents my practical learning journey and projects in data analysis.
 
