@@ -16,9 +16,6 @@ Projects
 
 Projects will be added as they are completed.
 
-Project| Tools| Status
-Environmental Water Quality Analysis| Excel| Planned
-Education Programme Performance Analysis| Excel, SQL| Planned
 
 Areas of Interest
 
