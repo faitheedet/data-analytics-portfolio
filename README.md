@@ -24,11 +24,11 @@ Areas of Interest
 - Data-Driven Decision-Making
 - Monitoring and Reporting
 
-Connect
+## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/faith-e-edet-237244194?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- GitHub: "faitheedet" (https://github.com/faitheedet)
-
+- LinkedIn: [Faith E. Edet](https://www.linkedin.com/in/faith-e-edet-237244194/)
+- Portfolio: [Visit my website](https://faitheedet.github.io)
+- GitHub: [faitheedet](https://github.com/faitheedet)
 ---
 
 Learning, building and documenting one project at a time.
